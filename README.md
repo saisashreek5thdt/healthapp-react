@@ -1,3 +1,3 @@
 # healthapp-react
 
-![GitHub CI](https://github.com/saisashrek5thdt/https://github.com/saisashreek5thdt/healthapp-react.git/actions/workflows/package.json/badge.svg)
+![GitHub CI](https://github.com/saisashrek5thdt/healthapp-react/actions/workflows/package.json/badge.svg)
